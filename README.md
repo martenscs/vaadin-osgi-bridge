@@ -1,0 +1,2 @@
+vaadin-osgi-bridge
+==================
